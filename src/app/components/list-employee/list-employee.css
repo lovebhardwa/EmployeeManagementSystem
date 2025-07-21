@@ -1,0 +1,14 @@
+.color{
+    background-color: #B5CFB7;
+    color: black;
+    
+}
+.form-color{
+    background-color: #cae8bdc0;
+    
+}
+
+.customFraction{
+    grid-template-columns: 1fr 1fr;
+}
+    

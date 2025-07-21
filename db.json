@@ -1,0 +1,92 @@
+{
+  "Employee": [
+    {
+      "id": "49f4",
+      "employeeId": "1",
+      "fullname": "Aashish",
+      "email": "aashish@gmail.com",
+      "phone": 952387561,
+      "gender": "Male",
+      "employeeType": "Full-Time",
+      "salary": 45000,
+      "departmentname": "Developer"
+    },
+    {
+      "id": "5dab",
+      "employeeId": "4",
+      "fullname": "Shivansh",
+      "email": "SV@gmail.com",
+      "phone": 569874225,
+      "gender": "male",
+      "employeeType": "Intern",
+      "salary": 5000,
+      "departmentname": "IT-Developer Intern"
+    },
+    {
+      "id": "8d88",
+      "employeeId": "5",
+      "fullname": "Love Bhardwaj",
+      "email": "luv@gmail.com",
+      "phone": 8954123089,
+      "gender": "male",
+      "employeeType": "IT-Intern",
+      "salary": 10000,
+      "departmentname": "IT-Developer Intern "
+    },
+    {
+      "id": "b995",
+      "employeeId": "6",
+      "fullname": "Monish Verma",
+      "email": "MV@gmail.com",
+      "phone": 1259762047,
+      "gender": "Male",
+      "employeeType": "Full Time",
+      "salary": 25000,
+      "departmentname": "Full Stack Developer"
+    },
+    {
+      "id": "ab58",
+      "employeeId": "7",
+      "fullname": "Kaushal  Kumar",
+      "email": "KK@gmail.com",
+      "phone": 4178002590,
+      "gender": "Male",
+      "employeeType": "Full Time",
+      "salary": 23000,
+      "departmentname": "Full Stack Developer"
+    },
+    {
+      "id": "344f",
+      "employeeId": "8",
+      "fullname": "Somiya Singh",
+      "email": "SS@gmail.com",
+      "phone": 4569871203,
+      "gender": "Female",
+      "employeeType": "Full Time",
+      "salary": 18000,
+      "departmentname": "Frontend"
+    },
+    {
+      "id": "4954",
+      "employeeId": "2",
+      "fullname": "Vikram",
+      "email": "VK@gmail.com",
+      "phone": 7894561230,
+      "gender": "male",
+      "employeeType": "Full Time",
+      "salary": 20000,
+      "departmentname": "Backend"
+    },
+    {
+      "id": "33fd",
+      "employeeId": "3",
+      "fullname": "karan",
+      "email": "KK@gmail.com",
+      "phone": 963258741,
+      "gender": "male",
+      "employeeType": "Intern",
+      "salary": 2000,
+      "departmentname": "spring boot"
+    }
+  ]
+}
