@@ -100,7 +100,10 @@ export class ListEmployee implements OnInit,AfterViewInit {
       })  
     })
   }
+    
 
+
+  
 //send updated employee to api
   updateToDatabase() {
     this.employee.updatedatatodatabase(this.employeeIdForUpdate, this.addemployee.value).subscribe((result) => {
